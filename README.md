@@ -10,7 +10,7 @@ Features ✨
 🌐 RESTful API Design: Follows REST principles for easy integration.
 
 Technologies Used 🛠️
-Backend: Java 17, Spring Boot 3.0
+Backend: Java 21, Spring Boot 3.2.5
 Database: MySql
 Build Tool: Maven
 Dependencies: Spring Web, Spring Data JPA, Lombok, Spring Boot DevTools,Spring Security,JWT
